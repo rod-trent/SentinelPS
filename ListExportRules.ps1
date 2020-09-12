@@ -9,11 +9,11 @@ Login-AzureRmAccount
 #==============================================================
   
 # Fill in the Resource Group the Azure Sentinel instance exists in
-	$ResourceGroup = "6MDMAzureSentinel"
+	$ResourceGroup = "YourResourceGroupName"
 
     
 # Fill in your Log Analytics workspace name of your Azure Sentinel instance
-	$WorkspaceName = "6mdmazuresentinele"
+	$WorkspaceName = "YourWorkspaceName"
 
 
 #==============================================================
