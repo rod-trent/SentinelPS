@@ -12,6 +12,8 @@
 
 <b>Get-LogicApp2JSON.ps1</b> requires the LogicAppTemplate module from the PowerShell gallery. Installation:  <i>PS> Install-Module -Name LogicAppTemplate</i>
 
+<b>GetTalosIPfeed.ps1</b> retrieves the current Talos IP list and writes it to a text file named c:\feeds\Talos.txt.
+
 <b>ListExportRules.ps1</b> generates the list of export rules created by <i>CreateSentinelExportRule.ps1</i>. See: <a href="https://secureinfra.blog/2020/09/12/how-to-back-up-azure-sentinel-tables-to-blob-storage-using-powershell/">How to Automate the Backup of Azure Sentinel Tables to Blob Storage Using PowerShell</a> 
 
 <b>SetMMASettings.ps1</b> Configures the MMA/Log Analtyics client for WorkSpaceID, WorksSpaceKey, and Proxy URL.
