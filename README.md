@@ -18,4 +18,6 @@
 
 <b>SetMMASettings.ps1</b> Configures the MMA/Log Analtyics client for WorkSpaceID, WorksSpaceKey, and Proxy URL.
 
+<b>ShodanScannerIPs.ps1</b> retrieves the current Shodan scanner IPs list and writes it to a text file named c:\feeds\RootShodanIP.txt.
+
 <b>TORExitNodeList.ps1</b> retrieves the current TOR Exit Node list and writes it to a text file named c:\feeds\TORExitNodeList.txt. Can then be imported into Azure Sentinel as TI.
