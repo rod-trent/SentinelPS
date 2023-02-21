@@ -1,4 +1,4 @@
-//PowerShell script to import a Microsoft Sentinel Watchlist
+# PowerShell script to import a Microsoft Sentinel Watchlist
 
 # Import the Azure module
 Import-Module AzureRM
