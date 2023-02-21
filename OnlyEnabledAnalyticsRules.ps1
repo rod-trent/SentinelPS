@@ -1,5 +1,5 @@
-//PowerShell script that connects to Microsoft Sentinel and displays only the enabled Microsoft Sentinel Analytics Rules
-//Replace <TenantId> and <SubscriptionId> with your actual values.
+# PowerShell script that connects to Microsoft Sentinel and displays only the enabled Microsoft Sentinel Analytics Rules
+# Replace <TenantId> and <SubscriptionId> with your actual values.
 
 # Connect to Microsoft Sentinel
 Connect-AzSentinel -TenantId <TenantId> -SubscriptionId <SubscriptionId>
