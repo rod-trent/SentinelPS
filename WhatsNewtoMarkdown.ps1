@@ -1,4 +1,4 @@
-//This PowerShell script retrieves the What's New page from Docs and converts it to Markdown so it can be imported into a Microsoft Sentinel Workbook.
+//This PowerShell script retrieves the What's New page from Docs, puts it in a C:\Scripts folder as a html file and then converts it to a Markdown file (WhatsNew.md)so it can be imported into a Microsoft Sentinel Workbook.
 
 
 # Install MarkdownPrince module if not already installed
