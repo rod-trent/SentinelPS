@@ -1,4 +1,4 @@
-//Use a KQL query against a Log Analtyics workspace
+# Use a KQL query against a Log Analtyics workspace
 
 # Set the workspace ID and primary key
 $workspaceId = "<your workspace ID>"
