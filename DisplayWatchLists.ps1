@@ -1,4 +1,4 @@
-//Displays all Microsoft Sentinel Watchlists
+# Displays all Microsoft Sentinel Watchlists
 
 # Connect to Azure Sentinel
 Connect-AzAccount
